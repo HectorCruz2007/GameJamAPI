@@ -1,0 +1,19 @@
+GameJamAPI/
+├── app/
+│   ├── routers/
+│   │   ├── __init__.py
+│   │   ├── auth.py
+│   │   └── games.py
+│   ├── __init__.py
+│   ├── config.py
+│   ├── database.py
+│   ├── main.py
+│   ├── models.py
+│   ├── schemas.py
+│   └── security.py
+├── .gitignore
+├── README.md
+├── requirements.txt
+└── tree.txt
+
+(se omiten .git, .venv, __pycache__ y *.db)
